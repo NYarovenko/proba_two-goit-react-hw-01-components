@@ -1,7 +1,7 @@
 import style from 'styled-components';
 
 export const SectionStyle = style.section` 
-margin: 16px;
+  margin: 16px;
   width: fit-content;
   border: 1px solid black;
   border-radius: 5px;
