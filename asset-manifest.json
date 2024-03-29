@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/proba_two-goit-react-hw-01-components/static/css/main.dc7543e0.css",
-    "main.js": "/proba_two-goit-react-hw-01-components/static/js/main.1bc0ba7b.js",
+    "main.js": "/proba_two-goit-react-hw-01-components/static/js/main.a1379621.js",
     "index.html": "/proba_two-goit-react-hw-01-components/index.html",
     "main.dc7543e0.css.map": "/proba_two-goit-react-hw-01-components/static/css/main.dc7543e0.css.map",
-    "main.1bc0ba7b.js.map": "/proba_two-goit-react-hw-01-components/static/js/main.1bc0ba7b.js.map"
+    "main.a1379621.js.map": "/proba_two-goit-react-hw-01-components/static/js/main.a1379621.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7543e0.css",
-    "static/js/main.1bc0ba7b.js"
+    "static/js/main.a1379621.js"
   ]
 }
